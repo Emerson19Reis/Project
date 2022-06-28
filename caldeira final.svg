@@ -553,19 +553,28 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.96470588"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      id="namedview94"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="393.45868"
-     inkscape:cy="329.37092"
+     inkscape:zoom="0.64"
+     inkscape:cx="883.86933"
+     inkscape:cy="364.96923"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="gTR1-8" />
+     inkscape:current-layer="layer1"
+     inkscape:pagecheckerboard="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="726.5625,687.5"
+       orientation="0,1"
+       id="guide876"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <title
      id="title55">Sem nome (1)</title>
   <style
@@ -861,12 +870,12 @@
              y="-21.510477">%02.1f</tspan></text>
         <rect
            transform="scale(-1)"
-           inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:200,&quot;min&quot;:0,&quot;tag&quot;:&quot;tag2&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#14F522&quot;,&quot;tag&quot;:&quot;tag2&quot;},{&quot;data&quot;:&quot;200&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;tag2&quot;},{&quot;data&quot;:&quot;230&quot;,&quot;param&quot;:&quot;#FF2A2A&quot;,&quot;tag&quot;:&quot;tag1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
-           y="388.31927"
-           x="-975.01862"
+           inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:200,&quot;min&quot;:0,&quot;tag&quot;:&quot;tag1&quot;},{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#14F522&quot;,&quot;tag&quot;:&quot;tag1&quot;},{&quot;data&quot;:&quot;200&quot;,&quot;param&quot;:&quot;#FFFF00&quot;,&quot;tag&quot;:&quot;tag1&quot;},{&quot;data&quot;:&quot;230&quot;,&quot;param&quot;:&quot;#FF2A2A&quot;,&quot;tag&quot;:&quot;tag1&quot;}]},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;thisobj.style.transition='all 1s ease';&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}"
+           y="392.8389"
+           x="-987.46381"
            height="199.7"
            width="10"
-           id="rect1517-2-5-4-6-5-9"
+           id="rect1517-2-5-4-6-5-5"
            style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
       </g>
       <g

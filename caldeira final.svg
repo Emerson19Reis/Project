@@ -556,16 +556,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-height="715"
      id="namedview94"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="883.86933"
-     inkscape:cy="239.96923"
+     inkscape:cx="687.125"
+     inkscape:cy="364.96923"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:pagecheckerboard="true"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -599,6 +599,18 @@
 		.s17 { fill: #664c00 } 
 		.s18 { fill: #92f3f3 } 
 	</style>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Fundo">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke-width:1.09232152"
+       id="rect5015"
+       width="1493.75"
+       height="667.1875"
+       x="-82.8125"
+       y="-43.75" />
+  </g>
   <g
      id="Background"
      transform="translate(-321.47812,5.639967)">
@@ -948,8 +960,33 @@
       <g
          transform="matrix(1,0,0,0.82387865,432.8,-486.93684)"
          id="g19396" />
+      <rect
+         style="opacity:0;fill:#00ff00"
+         id="rect330"
+         width="1390.625"
+         height="623.4375"
+         x="-142.1835"
+         y="-241.59506" />
+      <rect
+         style="opacity:0;fill:#00ff00"
+         id="rect332"
+         width="157.8125"
+         height="137.5"
+         x="-715.62097"
+         y="120.90494" />
     </g>
+    <rect
+       style="opacity:0;fill:#00ff00"
+       id="rect334"
+       width="1421.875"
+       height="648.4375"
+       x="291.79062"
+       y="-40.014969" />
   </g>
   <style
      id="style19256">tspan{white-space:pre}.a{opacity:1}.b{opacity:.6}.c{opacity:.5}.d{opacity:.2}.e{opacity:.7}.f{opacity:.4}.g{opacity:.8}.h{opacity:.3}.i{fill:#2b3d4a}.j{font-size: 13px;fill: #000000;font-weight: 400;font-family: &quot;Dangrek-Regular&quot;, &quot;Dangrek&quot;}</style>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Caldeira" />
 </svg>

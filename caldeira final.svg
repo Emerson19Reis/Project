@@ -759,13 +759,13 @@
      inkscape:window-height="715"
      id="namedview94"
      showgrid="false"
-     inkscape:zoom="0.466651"
-     inkscape:cx="811.46787"
-     inkscape:cy="212.10189"
+     inkscape:zoom="0.933302"
+     inkscape:cx="715.02461"
+     inkscape:cy="395.52042"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:pagecheckerboard="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -815,6 +815,27 @@
        height="1234.3282"
        x="-465.01562"
        y="-342.88879" />
+    <rect
+       style="opacity:1;fill:#552200;fill-opacity:0.87165773;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       id="rect4068"
+       width="740.97174"
+       height="87.886223"
+       x="84.855659"
+       y="410.59003" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87165773;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       id="rect4070"
+       width="24.244474"
+       height="60.611187"
+       x="150.0127"
+       y="404.52893" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87165773;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       id="rect4072"
+       width="25.759754"
+       height="65.157028"
+       x="289.41843"
+       y="402.29407" />
   </g>
   <style
      id="style19256">tspan{white-space:pre}.a{opacity:1}.b{opacity:.6}.c{opacity:.5}.d{opacity:.2}.e{opacity:.7}.f{opacity:.4}.g{opacity:.8}.h{opacity:.3}.i{fill:#2b3d4a}.j{font-size: 13px;fill: #000000;font-weight: 400;font-family: &quot;Dangrek-Regular&quot;, &quot;Dangrek&quot;}</style>
@@ -2997,7 +3018,7 @@ AAAA/hz8N35zXw1uravLAAAAAElFTkSuQmCC
        id="path2623"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:0.87165773;fill-rule:evenodd;stroke:#1e90ff;stroke-width:0.75877041;stroke-opacity:1"
+       style="opacity:1;fill:#1e90ff;fill-opacity:0.87058824;fill-rule:evenodd;stroke:#1e90ff;stroke-width:0.75877041;stroke-opacity:1"
        id="rect2625"
        width="230.74568"
        height="44.220108"

@@ -51,13 +51,13 @@
      inkscape:window-height="705"
      id="namedview6500"
      showgrid="false"
-     inkscape:zoom="0.3592273"
-     inkscape:cx="318.50891"
-     inkscape:cy="-257.39742"
+     inkscape:zoom="0.50802411"
+     inkscape:cx="513.7324"
+     inkscape:cy="4.7614662"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer5" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -191,14 +191,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20.8589077px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97776127"
        x="294.91364"
-       y="78.567513"
+       y="79.529831"
        id="text6811"
        inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag4&quot;}"
-       transform="scale(0.97776124,1.0227446)"><tspan
+       transform="scale(0.97776123,1.0227446)"><tspan
          sodipodi:role="line"
          id="tspan6809"
          x="294.91364"
-         y="78.567513"
+         y="79.529831"
          style="stroke-width:0.97776127">%s</tspan></text>
   </g>
   <g

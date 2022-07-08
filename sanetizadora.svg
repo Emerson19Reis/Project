@@ -51,9 +51,9 @@
      inkscape:window-height="705"
      id="namedview6500"
      showgrid="false"
-     inkscape:zoom="0.99339479"
-     inkscape:cx="420.79954"
-     inkscape:cy="177.12364"
+     inkscape:zoom="0.3592273"
+     inkscape:cx="318.50891"
+     inkscape:cy="-257.39742"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -86,12 +86,12 @@
      inkscape:label="tela de fundo "
      style="display:inline">
     <rect
-       style="fill:#e3e2db;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e3e2db;stroke:#000000;stroke-width:4.51325321;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6814"
-       width="1025.7755"
-       height="444.9389"
-       x="-72.478737"
-       y="-45.712845" />
+       width="2031.6414"
+       height="1143.9974"
+       x="-130.30849"
+       y="-44.489258" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -180,24 +180,26 @@
          y="43.607761"
          style="font-size:29.50397491px;stroke-width:1.22933233">Status </tspan></text>
     <ellipse
-       style="fill:#c8beb7;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#c8beb7;stroke:#000000;stroke-width:2.46772861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6790"
-       cx="305.01465"
-       cy="76.091698"
-       rx="27.179527"
-       ry="23.152929"
+       cx="305.88458"
+       cy="77.135605"
+       rx="35.818874"
+       ry="26.746727"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#FF0000&quot;,&quot;tag&quot;:&quot;tag4&quot;},{&quot;data&quot;:&quot;1&quot;,&quot;param&quot;:&quot;#4DFD17&quot;,&quot;tag&quot;:&quot;tag4&quot;}]}" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="286.89499"
-       y="83.138245"
+       style="font-style:normal;font-weight:normal;font-size:20.8589077px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97776127"
+       x="294.91364"
+       y="78.567513"
        id="text6811"
-       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag4&quot;}"><tspan
+       inkscape:label="{&quot;attr&quot;:&quot;text&quot;,&quot;map&quot;:[&quot;0=OFF&quot;,&quot;1=ON&quot;],&quot;tag&quot;:&quot;tag4&quot;}"
+       transform="scale(0.97776124,1.0227446)"><tspan
          sodipodi:role="line"
          id="tspan6809"
-         x="286.89499"
-         y="83.138245">%s</tspan></text>
+         x="294.91364"
+         y="78.567513"
+         style="stroke-width:0.97776127">%s</tspan></text>
   </g>
   <g
      id="g6508"

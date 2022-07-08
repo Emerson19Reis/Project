@@ -10,9 +10,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   viewBox="0 0 1008 696.00001"
-   width="10.5in"
-   height="7.25in"
+   viewBox="0 0 1412.7712 687.79746"
+   width="373.79572mm"
+   height="181.97974mm"
    id="svg92"
    sodipodi:docname="caldeira final.svg"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)">
@@ -289,17 +289,17 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="-886.48846 : -218.21798 : 1"
-       inkscape:vp_y="-56.703795 : 351.1371 : 0"
-       inkscape:vp_z="607.87566 : 62.173633 : 1"
-       inkscape:persp3d-origin="-129.36091 : -139.60941 : 1"
+       inkscape:vp_x="-886.48843 : -218.21799 : 1"
+       inkscape:vp_y="-56.703792 : 351.1371 : 0"
+       inkscape:vp_z="607.87565 : 62.173636 : 1"
+       inkscape:persp3d-origin="-129.36091 : -139.60942 : 1"
        id="perspective10" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 999.99997 : 0"
-       inkscape:vp_z="744.09448 : 526.1811 : 1"
-       inkscape:persp3d-origin="372.04725 : 350.78739 : 1"
+       inkscape:vp_x="0 : 526.18112 : 1"
+       inkscape:vp_y="0 : 1000.0001 : 0"
+       inkscape:vp_z="744.09445 : 526.18113 : 1"
+       inkscape:persp3d-origin="372.04723 : 350.78739 : 1"
        id="perspective10-4" />
     <marker
        style="overflow:visible"
@@ -759,21 +759,25 @@
      id="namedview94"
      showgrid="false"
      inkscape:zoom="0.466651"
-     inkscape:cx="577.23677"
-     inkscape:cy="549.103"
+     inkscape:cx="980.48775"
+     inkscape:cy="372.01752"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="gTR1-8-0"
+     inkscape:current-layer="layer3"
      inkscape:pagecheckerboard="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
-     units="in"
-     width="320mm">
+     units="mm"
+     width="320mm"
+     fit-margin-left="0"
+     fit-margin-right="0.8"
+     fit-margin-bottom="0"
+     fit-margin-top="0">
     <sodipodi:guide
-       position="726.5625,687.5"
+       position="696.41554,672.27969"
        orientation="0,1"
        id="guide876"
        inkscape:locked="false" />
@@ -807,17 +811,17 @@
      id="layer3"
      inkscape:label="Fundo"
      style="display:inline"
-     transform="translate(0,96)">
+     transform="translate(-30.146915,103.01778)">
     <g
        id="g2033"
        transform="translate(-162.86261,180.00604)" />
     <rect
-       style="opacity:1;fill:#e6e6e6;fill-opacity:0.87058824;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.87058824;fill-rule:evenodd;stroke:none;stroke-width:0.55513352;stroke-opacity:1"
        id="rect4616"
-       width="3840.1289"
-       height="1463.6206"
-       x="-709.30957"
-       y="-387.89032" />
+       width="1866.8624"
+       height="927.80548"
+       x="-205.57529"
+       y="-238.02231" />
     <rect
        style="opacity:1;fill:#552200;fill-opacity:0.87058824;fill-rule:evenodd;stroke:none;stroke-width:1.06173539;stroke-opacity:1"
        id="rect3298"
@@ -833,7 +837,7 @@
      id="layer2"
      inkscape:label="Caldeira"
      style="display:inline"
-     transform="translate(0,96)">
+     transform="translate(-30.146915,103.01778)">
     <g
        id="Background"
        transform="matrix(0.65128074,0,0,0.69682134,334.76621,42.354635)">
@@ -2154,9 +2158,9 @@
        d="m 403.19498,288.19226 c -0.12756,0 -0.26178,0.0373 -0.38086,0.0859 -0.0261,0.18183 -0.0582,0.3629 -0.0684,0.54687 -0.0146,0.39534 -0.0101,0.79191 -0.01,1.1875 10e-6,0.39995 -1e-5,0.79927 0,1.19922 v 1.20312 1.26758 c 10e-6,0.43292 -1e-5,0.8659 0,1.29883 v 0.64063 c 0.11124,-0.9277 0.22091,-1.63375 0.32226,-1.75586 0.17397,-0.20962 0.36089,-1.55695 0.41993,-3.02539 0.0877,-2.18268 0.0369,-2.64844 -0.28321,-2.64844 z"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#666666;stroke-width:2.0554235"
+       style="opacity:1;fill:#666666;stroke-width:1.08698368"
        id="rect5238"
-       width="1781.9773"
+       width="498.36276"
        height="27.991539"
        x="941.03363"
        y="500.98608"
@@ -2377,17 +2381,17 @@
          x="364.70862"
          y="22.342968">Pressão Caldeira (bar)</tspan></text>
     <rect
-       style="opacity:1;fill:#4d4d4d;stroke-width:1.11120057"
+       style="opacity:1;fill:#4d4d4d;stroke-width:0.5801475"
        id="rect5238-8"
-       width="1818.4071"
+       width="495.65912"
        height="8.0171518"
        x="944.23541"
        y="501.30035"
        inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;0&quot;,&quot;param&quot;:&quot;#1E90FF&quot;,&quot;tag&quot;:&quot;tag5&quot;}]}" />
     <rect
-       style="opacity:1;fill:#4d4d4d;stroke-width:1.1108731"
+       style="opacity:1;fill:#4d4d4d;stroke-width:0.57907605"
        id="rect5238-8-8"
-       width="1817.3356"
+       width="493.82996"
        height="8.0171518"
        x="944.71356"
        y="520.28461"
@@ -2772,7 +2776,7 @@
      xml:space="preserve"
      id="flowRoot5228"
      style="line-height:1.25;opacity:1;fill:#333333"
-     transform="translate(0,96)"><flowRegion
+     transform="translate(-30.146915,103.01778)"><flowRegion
        id="flowRegion5230"><rect
          id="rect5232"
          width="221.875"
